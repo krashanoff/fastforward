@@ -1,0 +1,9 @@
+libh2o
+libsqlite
+libjson
+libunity
+*.dSYM
+.DS_Store
+.deps/*
+ff.db
+fastforward*
